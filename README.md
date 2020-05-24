@@ -1,0 +1,2 @@
+# libdescriptors
+Global Image Descriptors
