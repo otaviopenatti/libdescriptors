@@ -4,7 +4,7 @@ This repository has the source codes and scientific papers of a set of global im
 These descriptors were analyzed and compared experimentally during my masters degree at Institute of Computing (IC) from University of Campinas (Unicamp), in Brazil.
 My masters studies were supervised by professor Ricardo da Silva Torres from 2007 to 2009.
 
-The paper below has one of the main results of my masters dissertation which is a theoretical and experimental evaluation of these descriptors.
+The paper below has one of the main results of my masters dissertation which is a theoretical and experimental evaluation of these descriptors. The paper also had contribution of professor Eduardo Valle. 
 If you use any code from this repository, please cite the following paper:
 
 "Comparative study of global color and texture descriptors for web image retrieval." 
@@ -91,7 +91,7 @@ Please, find below the names of the people who contributed to the descriptors' i
 - Nadia Kozievitch - JAC
 - Ricardo Panaggio - CW-LUV, CCOM
 - Rodrigo Rezende - JAC, HTD
-- Rodrigo Tripodi
+- Rodrigo Tripodi - HTD
 - Thiago Spina - M-Spyd
 
 I also thank the RECOD lab from IC-Unicamp for the computational infrastructure for organizing, compiling and testing all the descriptors.
