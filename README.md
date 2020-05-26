@@ -5,6 +5,7 @@ These descriptors were analyzed and compared experimentally during my masters de
 My masters studies were supervised by professor Ricardo da Silva Torres from 2007 to 2009.
 
 The paper below has one of the main results of my masters dissertation which is a theoretical and experimental evaluation of these descriptors. The paper also had contribution of professor Eduardo Valle. 
+
 If you use any code from this repository, please cite the following paper:
 
 "Comparative study of global color and texture descriptors for web image retrieval." 
@@ -59,7 +60,7 @@ Bibtex:
 1. Extraction: the extraction program extracts a feature vector from a single image (output is a file containing the feature vector)
 2. Distance: the distance program computes the distance between two feature vectors (output is printed on standard output)
 
-![Descriptor schema](https://github.com/otaviopenatti/libdescriptors/blob/initial-code-upload/descriptors_schema.png)
+![Descriptor schema (figure adapted from the paper)](https://github.com/otaviopenatti/libdescriptors/blob/initial-code-upload/descriptor_schema.png)
 
 **Remarks:**
 - Descriptors were compiled and tested on GNU/Linux environment, specifically on Ubuntu 18.04.3 LTS.
