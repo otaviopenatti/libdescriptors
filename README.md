@@ -59,6 +59,8 @@ Bibtex:
 1. Extraction: the extraction program extracts a feature vector from a single image (output is a file containing the feature vector)
 2. Distance: the distance program computes the distance between two feature vectors (output is printed on standard output)
 
+![Descriptor schema](https://github.com/otaviopenatti/libdescriptors/blob/initial-code-upload/descriptors_schema.png)
+
 **Remarks:**
 - Descriptors were compiled and tested on GNU/Linux environment, specifically on Ubuntu 18.04.3 LTS.
 - Each descriptor's source-code package works independently of the other descriptors. So you can download and compile only the descriptors of your interest (all the code necessary to use it is already in the "source" folder). Consequently, however, code (basic functions) is replicated across descriptors.
